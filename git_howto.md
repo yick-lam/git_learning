@@ -1,4 +1,4 @@
-
+# This docuemtn is obsoleted.  It is moved to other personal server
 
 This is just some not very organized note for git.
 
